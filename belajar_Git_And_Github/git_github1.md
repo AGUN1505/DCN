@@ -1,8 +1,3 @@
-Gas. Ini aku rapihin jadi **Markdown super lengkap, terstruktur, dan siap copy–paste** 📘🔥
-Cocok buat modul, laporan, atau catatan belajar Git & GitHub.
-
----
-
 # Git dan GitHub
 
 Pada materi **Git dan GitHub**, kita telah mempelajari sejarah, konsep dasar, hingga praktik penggunaan Git dan GitHub dalam pengembangan perangkat lunak secara kolaboratif. Berikut adalah rangkuman dari seluruh materi tersebut.
