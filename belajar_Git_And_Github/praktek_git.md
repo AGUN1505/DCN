@@ -1,4 +1,3 @@
-
 **Panduan Instalasi Git & Konfigurasi GitHub**
 
 - **Tujuan:** Panduan singkat untuk menginstal Git, mengonfigurasi identitas lokal, menyiapkan akses ke GitHub (SSH atau HTTPS), dan contoh alur kerja dasar.
@@ -85,5 +84,3 @@ Pilihan utama: SSH (direkomendasikan) atau HTTPS (menggunakan Personal Access To
 - Dokumentasi Git: https://git-scm.com/doc
 - Dokumentasi GitHub (SSH): https://docs.github.com/en/authentication/connecting-to-github-with-ssh
 - Dokumentasi GitHub (PAT): https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
-
----
