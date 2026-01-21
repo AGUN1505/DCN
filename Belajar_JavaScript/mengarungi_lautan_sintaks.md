@@ -289,6 +289,7 @@ age = 30;
 
 
 ## Test Coding
+
  * TODO: buatlah variabel (konstan) bernama `currency` dan isi dengan nilai "IDR".
 
  * TODO: buatlah variabel bernama `value` dan isi dengan nilai 10000.
