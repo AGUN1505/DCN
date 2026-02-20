@@ -86,3 +86,4 @@ Pilihan utama: SSH (direkomendasikan) atau HTTPS (menggunakan Personal Access To
 - Dokumentasi GitHub (PAT): https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
 
 **done**
+**donee**
